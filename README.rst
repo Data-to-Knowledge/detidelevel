@@ -15,7 +15,7 @@ detidelevel can be installed via pip or conda::
 
 or::
 
-  conda install -c mullenkamp detidelevel
+  conda install -c Data-to-Knowledge detidelevel
 
 The core dependency is `Pandas <http://pandas.pydata.org/pandas-docs/stable/>`_ and `statsmodels <https://www.statsmodels.org>`_.
 
